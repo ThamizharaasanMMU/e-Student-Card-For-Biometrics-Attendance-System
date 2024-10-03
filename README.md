@@ -45,29 +45,29 @@ This mobile application targets MMU students and lecturers, providing a user-fri
 
 ### Login Page 
 
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 ### Student Dashboard
 
-![alt text](image-1.png)
+![alt text](Screenshots/image-1.png)
 
 ### Lecturer Dahboard
 
-![alt text](image-2.png)
+![alt text](Screenshots/image-2.png)
 
 
 ### Campus Staff
 
-![alt text](image-4.png)
+![alt text](Screenshots/image-4.png)
 
 
 ### Administrator Dashboard
 
-![alt text](image-3.png)
+![alt text](Screenshots/image-3.png)
 
 
 ## Further Description and User Manual
 
-For more detailed information, please refer to the [Functional Requirements PDF](https://github.com/ThamizharaasanMMU/e-Student-Card-For-Biometrics-Attendance-System/blob/main/1201101703_2798_amended final report.pdf).
+For more detailed information, please refer to the [Functional Requirements PDF](https://github.com/ThamizharaasanMMU/e-Student-Card-For-Biometrics-Attendance-System/blob/main/1201101703_2798_amended%20final%20report.pdf).
 
 
