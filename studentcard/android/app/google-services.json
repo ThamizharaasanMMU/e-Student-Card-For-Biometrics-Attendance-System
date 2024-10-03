@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420316186925",
+    "project_id": "e-studentcardfyp",
+    "storage_bucket": "e-studentcardfyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420316186925:android:32074f12c4636401d0aba4",
+        "android_client_info": {
+          "package_name": "com.example.studentcard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpbCLWruVVzM2SWgdvbvy8IJCnfx9mNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
